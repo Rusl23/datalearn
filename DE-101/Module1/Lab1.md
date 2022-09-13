@@ -11,9 +11,8 @@
 <br />
 
 #
-![Architecture of The Analytical Solution image](/datalearn/DE-101/Module1/Architecture%20of%20The%20Analytical%20Solution.png)
+![Architecture of The Analytical Solution image](https://github.com/Rusl23/datalearn/blob/main/DE-101/Module1/Architecture%20of%20The%20Analytical%20Solution.png)
 #
-
 
 
 
